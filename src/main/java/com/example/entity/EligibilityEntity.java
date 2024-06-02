@@ -46,5 +46,7 @@ public class EligibilityEntity {
 
 	@Column(name = "HOLDER_SSN")
 	private Long holderSsn;
+	
+	int i=10;
 
 }
